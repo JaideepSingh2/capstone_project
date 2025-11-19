@@ -15,8 +15,8 @@ This project puts into practice several key topics from the MAT496 course. We us
 ## Plan
 
 - [Done] Step 1: Set up project structure and dependencies
-- [TODO] Step 2: Define Pydantic data models for structured output
-- [TODO] Step 3: Implement resume parser node with prompting
+- [Done] Step 2: Define Pydantic data models for structured output
+- [Done] Step 3: Implement resume parser node with prompting
 - [TODO] Step 4: Implement job description analyzer node
 - [TODO] Step 5: Implement company research node with Tavily tool calling
 - [TODO] Step 6: Implement skill gap analyzer with semantic matching
