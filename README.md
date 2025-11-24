@@ -19,9 +19,9 @@ This project puts into practice several key topics from the MAT496 course. We us
 - [Done] Step 3: Implement resume parser node with prompting
 - [Done] Step 4: Implement job description analyzer node
 - [Done] Step 5: Implement company research node with Tavily tool calling
-- [TODO] Step 6: Implement skill gap analyzer with semantic matching
-- [TODO] Step 7: Implement cover letter generator with RAG
-- [TODO] Step 8: Implement interview question generator
+- [Done] Step 6: Implement skill gap analyzer with semantic matching
+- [done] Step 7: Implement cover letter generator with RAG
+- [done] Step 8: Implement interview question generator
 - [TODO] Step 9: Build LangGraph with state, nodes, and conditional edges
 - [TODO] Step 10: Add human-in-the-loop checkpoint
 - [TODO] Step 11: Test with sample inputs and refine
