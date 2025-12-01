@@ -28,7 +28,7 @@ This project puts into practice several key topics from the MAT496 course. We us
 - [Done] Step 11: Test with sample inputs and refine
 - [Done] Step 12: Record demo video
 
-Link: ![Google_Drive](https://drive.google.com/file/d/14_qMiDv-plSRUZ_MAeyaeA-uUCX6eoBk/view?usp=sharing)
+Demo Link: [https://drive.google.com/file/d/14_qMiDv-plSRUZ_MAeyaeA-uUCX6eoBk/view?usp=sharing](https://drive.google.com/file/d/14_qMiDv-plSRUZ_MAeyaeA-uUCX6eoBk/view?usp=sharing)
 
 ## Conclusion
 
