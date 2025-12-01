@@ -10,8 +10,7 @@ This tool helps with job applications by comparing a resume to a job description
 
 ## Reason for Picking This Project
 
-I am in my final year and was preparing for job placements, so I needed a tool to speed up resume review, cover letter writing, and interview preparation. Building an assistant like this felt directly useful and would save a lot of time during the application process. When I learned about LLMs and LangGraph, I decided to use them to create a practical job application helper.
-
+I am in my final year and was preparing for job placements, so I needed a tool to speed up resume review, cover letter writing, and interview preparation. Building an assistant like this felt directly useful and would save a lot of time during the application process.
 This project puts into practice several key topics from the MAT496 course. We use custom prompts to understand resumes, analyze job descriptions, and write cover letters. To keep our data organized, we use Pydantic models. The project uses semantic search to find not just exact skill matches, but also related skills. We use RAG to pull information from the resume to write personalized cover letters. It also uses external tools to research companies. The whole process is managed by LangGraph, which connects all the steps, handles different conditions, and even allows for a person to review the results.
 
 ## Plan
